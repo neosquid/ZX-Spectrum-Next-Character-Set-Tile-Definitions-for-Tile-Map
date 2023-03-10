@@ -1,4 +1,4 @@
-# ZX Spectrum Character Set Tile Definitions
+# ZX Spectrum Character Set Tile Definition Data for ZX Spectrum Next
 
 ZX Spectrum character set converted to 8x8 tile set for ZX Spectrum Next
 
